@@ -13,10 +13,10 @@ This **COVID-19 Monitoring System** is a **C-based mini project** designed to en
 Here are some screenshots of the system in action:  
 
 1. **Login Page**  
-   ![Login Screen](screenshots/login.png)  
+   ![Home Screen](Screenhots/1.png)  
 
 2. **Patient Dashboard**  
-   ![Patient Dashboard](screenshots/patient_dashboard.png)  
+   ![Patient Dashboard](Screenhots/6(2).png)  
 
 3. **Resource Monitoring**  
    ![Resource Monitoring](screenshots/resource_monitoring.png)  
