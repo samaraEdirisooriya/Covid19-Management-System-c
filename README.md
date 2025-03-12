@@ -16,13 +16,13 @@ Here are some screenshots of the system in action:
    ![Home Screen](Screenhots/1.png)  
 
 2. **Patient Dashboard**  
-   ![Patient Dashboard](Screenhots/6(2).png)  
+   ![Patient Dashboard](Screenhots/6.png)  
 
-3. **Resource Monitoring**  
-   ![Resource Monitoring](screenshots/resource_monitoring.png)  
+3. **Doctor Dashboard**  
+   ![Doctor Monitoring](Screenhots/3.png)  
 
 4. **ICU Admission System**  
-   ![ICU Admission](screenshots/icu_admission.png)  
+   ![Nurse Dashboard](screenshots/2.png)  
 
 ## 🛠️ Technologies Used  
 - **Programming Language:** C  
