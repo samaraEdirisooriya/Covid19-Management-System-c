@@ -22,7 +22,7 @@ Here are some screenshots of the system in action:
    ![Doctor Monitoring](Screenhots/3.png)  
 
 4. **Nurse Dashboard**  
-   ![Nurse Dashboard](screenshots/2.png)  
+   ![Nurse Dashboard](Screenhots/2.png)  
 
 ## 🛠️ Technologies Used  
 - **Programming Language:** C  
